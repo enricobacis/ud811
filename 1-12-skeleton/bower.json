@@ -1,0 +1,21 @@
+{
+  "name": "1-12-skeleton",
+  "homepage": "https://github.com/enricobacis/ud811",
+  "authors": [
+    "enricobacis <enrico.bacis@gmail.com>"
+  ],
+  "description": "weather application",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "localforage": "^1.4.2"
+  }
+}
